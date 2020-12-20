@@ -1,6 +1,6 @@
 # Introduction to Using the Shell in a High-Performance Computing Context
 Hello there,  
-This is Sabbir Ahmed Sibli, currently studying in MSc. in Computer Science, BRAC University.  
+This is Sabbir Ahmed Sibli, currently studying MSc. in Computer Science, BRAC University.  
 This Presentation has been submitted as a partial fulfillment for CSE 707 - Disributed Computing System under MSc. in CSE Program, BRAC University.  
 In this presentation, I'll cover the following topics:  
 1. Intro: Clusters & High Performance Computing (HPC)  
