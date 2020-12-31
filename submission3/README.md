@@ -16,7 +16,7 @@ This Presentation has been submitted as a partial fulfillment for CSE 707 - Disr
 **Or, you can access the video directly by this link:** https://youtu.be/AqnI6pnZFlY
 
 **Submission Information:**  
-Sabbir Ahmed Sibli  
+Name: Sabbir Ahmed Sibli  
 ID: 20266027  
 Course: CSE 707 - Distributed Computing System  
 Semester: Fall 2020  
