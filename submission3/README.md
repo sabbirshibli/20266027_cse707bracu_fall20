@@ -11,7 +11,7 @@ This Presentation has been submitted as a partial fulfillment for CSE 707 - Disr
 
 **For watching the video demonstration, please click the following thumbnail:**  
 
-[![cse707bracu_fall20](https://youtu.be/AqnI6pnZFlY/0.jpg)](https://youtu.be/AqnI6pnZFlY)
+[![cse707bracu_fall20](https://www.youtube.com/watch?v=AqnI6pnZFlY/0.jpg)](https://www.youtube.com/watch?v=AqnI6pnZFlY)
 
 **Or, you can access the video directly by this link:** https://youtu.be/AqnI6pnZFlY
 
